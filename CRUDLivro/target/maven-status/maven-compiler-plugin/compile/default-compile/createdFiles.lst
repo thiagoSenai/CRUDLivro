@@ -1,0 +1,4 @@
+com/algaworks/livros/repository/Livros.class
+com/algaworks/livros/resource/LivrosResource.class
+com/algaworks/livros/LivrosApplication.class
+com/algaworks/livros/model/Livro.class
